@@ -1,0 +1,74 @@
+BankJUnitTests
+=============================
+Run: 8 Dec 2023 00:44:29 GMT
+
+Tests Summary
+=============================
+Tests Run: 9
+Tests Successful: 9
+Tests Failed: 0
+
+Marks Summary
+=============================
+Marks Available: 24
+Marks Gained: 24
+
+
+Test Results
+=============================
+Test 1: testGetAccount(): Pass - 1701996269236
+--
+Test 2: testSaveAccounts(): Pass - 1701996269221
+--
+Test 3: testCloseAccount(): Pass - 1701996269194
+--
+Test 4: testTransferFunds(): Pass - 1701996269246
+--
+Test 5: testOpenSavingsAccount(): Pass - 1701996269273
+--
+Test 6: testOpenBankAccount(): Pass - 1701996269265
+--
+Test 7: testGetNextAccountID(): Pass - 1701996269175
+--
+Test 8: testGetAccountIndex(): Pass - 1701996269184
+--
+Test 9: testBankGetAccounts(): Pass - 1701996269256
+
+
+Test Marks
+=============================
+Test 1: testGetAccount(): 
+		Marks Available: 2
+		Marks Gained: 2
+--
+Test 2: testSaveAccounts(): 
+		Marks Available: 5
+		Marks Gained: 5
+--
+Test 3: testCloseAccount(): 
+		Marks Available: 2
+		Marks Gained: 2
+--
+Test 4: testTransferFunds(): 
+		Marks Available: 4
+		Marks Gained: 4
+--
+Test 5: testOpenSavingsAccount(): 
+		Marks Available: 1
+		Marks Gained: 1
+--
+Test 6: testOpenBankAccount(): 
+		Marks Available: 1
+		Marks Gained: 1
+--
+Test 7: testGetNextAccountID(): 
+		Marks Available: 3
+		Marks Gained: 3
+--
+Test 8: testGetAccountIndex(): 
+		Marks Available: 1
+		Marks Gained: 1
+--
+Test 9: testBankGetAccounts(): 
+		Marks Available: 5
+		Marks Gained: 5
